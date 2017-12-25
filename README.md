@@ -13,9 +13,7 @@ PC端库及插件
 <br>jquery.corner.js
 
 ## [graphic图形](https://github.com/vee2046/javascript-open-source/tree/master/graphic)
-### svg库
-  - svg.js
-  - svg.min.js
+<br>图形处理常用库及示例教程
 
 ## [lib-mobile移动端](https://github.com/vee2046/javascript-open-source/tree/master/lib-mobile)
 ### 移动端库

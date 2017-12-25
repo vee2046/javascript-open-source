@@ -25,7 +25,7 @@
 
 ## 动画
 - TweenJS
-<br>移动和渐变动画，[官网](https://createjs.com/tweenjs)[github](https://github.com/CreateJS/TweenJS)
+<br>移动和渐变动画，[官网](https://createjs.com/tweenjs)  [github](https://github.com/CreateJS/TweenJS)
 
 
 

@@ -28,3 +28,7 @@ PC端库及插件
 - json与string互相转换
 <br>json2.js
 
+## 声音处理
+- SoundJS
+<br>声音加载、播放等控制，[官网](https://createjs.com/soundjs)[github](https://github.com/CreateJS/SoundJS)
+

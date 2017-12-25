@@ -12,12 +12,12 @@ PC端库及插件
 - jquery圆角插件
 <br>jquery.corner.js
 
-## graphic图形
-## svg库
+## [graphic图形](https://github.com/vee2046/javascript-open-source/tree/master/graphic)
+### svg库
   - svg.js
   - svg.min.js
 
-## lib-mobile移动端
+## [lib-mobile移动端](https://github.com/vee2046/javascript-open-source/tree/master/lib-mobile)
 ### 移动端库
   - zepto.1.2.0.js
   - zepto.1.2.0.min.js
@@ -26,7 +26,7 @@ PC端库及插件
   - hammer.js
   - hammer.min.js
 
-## dataformat数据格式处理
+## [dataformat数据格式处理](https://github.com/vee2046/javascript-open-source/tree/master/dataformat)
 - json与string互相转换
 <br>json2.js
 

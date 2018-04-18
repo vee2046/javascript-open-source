@@ -32,3 +32,7 @@ PC端库及插件
 - SoundJS
 <br>声音加载、播放等控制，[官网](https://createjs.com/soundjs)[github](https://github.com/CreateJS/SoundJS)
 
+## 鼠标键盘事件events
+
+## [CSS](https://github.com/vee2046/javascript-open-source/tree/css)
+

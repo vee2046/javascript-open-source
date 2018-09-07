@@ -5,6 +5,8 @@
 - 图表echarts
 <br>[官方链接](https://github.com/ecomfe/echarts)
 <br>[中文官网](http://echarts.baidu.com/)
+- 图表（股票交易类）tradingview
+<br>[中文官网](https://cn.tradingview.com)
 - 标签云wordcloud
 <br>**依赖echarts**
 <br>[官方链接](https://github.com/ecomfe/echarts-wordcloud)
@@ -26,6 +28,11 @@
 <br>除了绘制和操作canvas外,还支持SVG-to-canvas parser 
 <br>[官网](https://createjs.com/easeljs)  [github](https://github.com/kangax/fabric.js)
 <br>[文档](http://fabricjs.com/docs/)
+
+- zRender.js
+<br>ZRender 是二维绘图引擎，它提供 Canvas、SVG、VML 等多种渲染方式。ZRender 也是 ECharts 的渲染器。
+<br>[官网](https://ecomfe.github.io/zrender-doc/public/)  [github](https://github.com/ecomfe/zrender)
+<br>[文档](https://ecomfe.github.io/zrender-doc/public/api.html)
 
 ## 动画
 - TweenJS

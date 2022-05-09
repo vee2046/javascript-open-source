@@ -2,7 +2,7 @@
 JavaScript开放资源，包括常用库、图形处理、数据格式转换等。
 
 ## jquery
-PC端库及插件
+PC端库及插件，不需要翻墙的CDN——[微软jquery cdns](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)
 - jquery.js
 <br>v2.1.1，不支持低端浏览器
 
